@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+*.lnk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
