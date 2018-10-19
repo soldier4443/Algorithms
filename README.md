@@ -1,6 +1,6 @@
 # Algorithm
 
-A jourey to algorithms..
+A jourey to become an algorithm Ninja..
 
 ## backjoon
 
